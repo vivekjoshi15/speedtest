@@ -5,8 +5,8 @@
   "main": "index.js",
   "private": true,
   "engines": {
-    "node": ">=13.9.0",
-    "npm": ">=6.13.7"
+    "node": ">=14.4.0",
+    "npm": ">=6.14.5"
   },
   "scripts": {
     "start": "node index.js",
