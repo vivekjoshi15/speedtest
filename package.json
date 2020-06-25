@@ -1,0 +1,22 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": ">=13.9.0",
+    "npm": ">=6.13.7"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vivek Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-speedtest-api": "^0.3.2"
+  }
+}
