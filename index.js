@@ -15,7 +15,7 @@ let speedtest = new FastSpeedtest({
     urlCount: 5, // default: 5
     bufferSize: 8, // default: 8
     unit: FastSpeedtest.UNITS.Mbps, // default: Bps
-    proxy: 'http://optional:auth@my-proxy:123' // default: undefined
+    proxy: undefined // default: undefined
 });
 
 //READ Request Handlers
